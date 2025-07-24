@@ -1,1 +1,1 @@
- RAG system built using FastAPI and OpenAI’s API
+ RAG (Retrieval-Augmented Generation) system built using FastAPI and OpenAI’s API
